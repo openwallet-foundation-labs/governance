@@ -1,0 +1,123 @@
+teams:
+- name: fwos-maintainers
+  maintainers:
+  - tkuhrt
+  members:
+  - jorgefl0
+  - skullquake
+- name: identity-credential-admins
+  maintainers:
+  - davidz25
+- name: identity-credential-maintainers
+  maintainers:
+  - davidz25
+  members:
+  - 15characterlimi
+  - dritan-x
+  - dyiop
+  - GarethCOliver
+  - sethmoo
+  - sorotokin
+  - suzannajiwani
+- name: multiformat-vc-ios-maintainers
+  maintainers:
+  - tkuhrt
+  members:
+  - bhavyachauhan-ping
+  - gauravping
+- name: sd-jwt-dotnet-maintainers
+  maintainers:
+  - thomas-tran
+- name: sd-jwt-js-admin
+  maintainers:
+  - cre8
+  members:
+  - lukasjhan
+- name: sd-jwt-js-maintainers
+  maintainers:
+  - lukasjhan
+  - tkuhrt
+  members:
+  - aceshim
+  - berendsliedrecht
+  - cre8
+  - zustkeeper
+- name: sd-jwt-kotlin-maintainers
+  maintainers:
+  - fabian-hk
+  - tkuhrt
+- name: sd-jwt-python-maintainers
+  maintainers:
+  - danielfett
+  - tkuhrt
+  members:
+  - peppelinux
+- name: sd-jwt-rust-maintainers
+  maintainers:
+  - tkuhrt
+  members:
+  - jovfer
+- name: vc-api-developers
+  maintainers:
+  - jrhender
+  members:
+  - nichonien
+- name: vc-api-maintainers
+  maintainers:
+  - jrhender
+- name: wallet-framework-dotnet-maintainers
+  maintainers:
+  - CHempel-esatus
+  - Dindexx
+  - JoTiTu
+  - ntsbs
+repositories:
+- name: .github
+  visibility: public
+- name: fwos-demo-app
+  teams:
+    fwos-maintainers: maintain
+  visibility: public
+- name: fwos-native-template
+  teams:
+    fwos-maintainers: maintain
+  visibility: public
+- name: identity-credential
+  teams:
+    identity-credential-admins: admin
+    identity-credential-maintainers: maintain
+  visibility: public
+- name: multiformat-vc-ios
+  teams:
+    multiformat-vc-ios-maintainers: write
+  visibility: public
+- name: sd-jwt-dotnet
+  teams:
+    sd-jwt-dotnet-maintainers: maintain
+  visibility: public
+- name: sd-jwt-js
+  teams:
+    sd-jwt-js-maintainers: maintain
+    sd-jwt-js-admin: admin
+  visibility: public
+- name: sd-jwt-kotlin
+  teams:
+    sd-jwt-kotlin-maintainers: maintain
+  visibility: public
+- name: sd-jwt-python
+  teams:
+    sd-jwt-python-maintainers: maintain
+  visibility: public
+- name: sd-jwt-rust
+  teams:
+    sd-jwt-rust-maintainers: maintain
+  visibility: public
+- name: vc-api
+  teams:
+    vc-api-maintainers: maintain
+    vc-api-developers: write
+  visibility: public
+- name: wallet-framework-dotnet
+  teams:
+    wallet-framework-dotnet-maintainers: maintain
+  visibility: public
