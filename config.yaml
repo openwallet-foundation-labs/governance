@@ -1,9 +1,8 @@
 teams:
 - name: fwos-maintainers
   maintainers:
-  - tkuhrt
-  members:
   - jorgefl0
+  members:
   - skullquake
 - name: identity-credential-admins
   maintainers:
@@ -21,10 +20,9 @@ teams:
   - suzannajiwani
 - name: multiformat-vc-ios-maintainers
   maintainers:
-  - tkuhrt
+  - gauravping
   members:
   - bhavyachauhan-ping
-  - gauravping
 - name: sd-jwt-dotnet-maintainers
   maintainers:
   - thomas-tran
@@ -36,7 +34,6 @@ teams:
 - name: sd-jwt-js-maintainers
   maintainers:
   - lukasjhan
-  - tkuhrt
   members:
   - aceshim
   - berendsliedrecht
@@ -45,17 +42,13 @@ teams:
 - name: sd-jwt-kotlin-maintainers
   maintainers:
   - fabian-hk
-  - tkuhrt
 - name: sd-jwt-python-maintainers
   maintainers:
   - danielfett
-  - tkuhrt
   members:
   - peppelinux
 - name: sd-jwt-rust-maintainers
   maintainers:
-  - tkuhrt
-  members:
   - jovfer
 - name: vc-api-developers
   maintainers:
