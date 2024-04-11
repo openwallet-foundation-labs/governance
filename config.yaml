@@ -67,11 +67,7 @@ teams:
 repositories:
 - name: .github
   visibility: public
-- name: fwos-demo-app
-  teams:
-    fwos-maintainers: maintain
-  visibility: public
-- name: fwos-native-template
+- name: farmworker-wallet-os
   teams:
     fwos-maintainers: maintain
   visibility: public
