@@ -1,4 +1,9 @@
 teams:
+- name: eudi-wallet-kit-react-native-maintainers
+  maintainers:
+  - AlexanderShenshin
+  members:
+  - akarabashov
 - name: fwos-maintainers
   maintainers:
   - jorgefl0
@@ -66,6 +71,10 @@ teams:
   - ntsbs
 repositories:
 - name: .github
+  visibility: public
+- name: eudi-wallet-kit-react-native
+  teams:
+    eudi-wallet-kit-react-native-maintainers: maintain
   visibility: public
 - name: farmworker-wallet-os
   teams:
