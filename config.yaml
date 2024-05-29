@@ -1,4 +1,9 @@
 teams:
+- name: credhub-maintainers
+  maintainers:
+  - cre8
+  members:
+  - mustafasalfiti
 - name: eudi-wallet-kit-react-native-maintainers
   maintainers:
   - AlexanderShenshin
@@ -71,6 +76,10 @@ teams:
   - ntsbs
 repositories:
 - name: .github
+  visibility: public
+- name: credhub
+  teams:
+    credhub-maintainers: maintain
   visibility: public
 - name: eudi-wallet-kit-react-native
   teams:
