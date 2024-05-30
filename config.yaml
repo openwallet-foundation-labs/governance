@@ -55,6 +55,12 @@ teams:
 - name: sd-jwt-rust-maintainers
   maintainers:
   - jovfer
+- name: tsp-maintainers
+  maintainers:
+  - wenjing
+  members:
+  - tweedegolf-marc
+  - marlonbaeten
 - name: vc-api-developers
   maintainers:
   - jrhender
@@ -109,6 +115,10 @@ repositories:
 - name: sd-jwt-rust
   teams:
     sd-jwt-rust-maintainers: maintain
+  visibility: public
+- name: tsp
+  teams:
+    tsp-maintainers: maintain
   visibility: public
 - name: vc-api
   teams:
