@@ -57,8 +57,9 @@ teams:
   - jovfer
 - name: tsp-maintainers
   maintainers:
-  - wenjing
+  - tkuhrt
   members:
+  - wenjing
   - tweedegolf-marc
   - marlonbaeten
 - name: vc-api-developers
