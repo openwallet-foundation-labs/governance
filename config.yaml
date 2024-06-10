@@ -66,6 +66,13 @@ teams:
   members:
   - tweedegolf-marc
   - marlonbaeten
+- name: tuvali-maintainers
+  maintainers:
+  - tkuhrt
+  members:
+  - gsasikumar
+  - ckm007
+  - swatigoel
 - name: vc-api-developers
   maintainers:
   - jrhender
@@ -128,6 +135,10 @@ repositories:
 - name: tsp
   teams:
     tsp-maintainers: maintain
+  visibility: public
+- name: tuvali
+  teams:
+    tuvali-maintainers: maintain
   visibility: public
 - name: vc-api
   teams:
