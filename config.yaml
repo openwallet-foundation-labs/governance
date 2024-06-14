@@ -28,7 +28,7 @@ teams:
   - sethmoo
   - sorotokin
   - suzannajiwani
--name: mdl-js-maintainers
+- name: mdl-js-maintainers
   maintainers:
   - lukasjhan
   members:
