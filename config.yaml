@@ -28,6 +28,11 @@ teams:
   - sethmoo
   - sorotokin
   - suzannajiwani
+-name: mdl-js-maintainers
+  maintainers:
+  - lukasjhan
+  members:
+  - hismethod
 - name: multiformat-vc-ios-maintainers
   maintainers:
   - gauravping
@@ -107,6 +112,9 @@ repositories:
     identity-credential-admins: admin
     identity-credential-maintainers: maintain
   visibility: public
+- name: mdl-js
+  teams:
+    mdl-js-maintainers: maintain
 - name: multiformat-vc-ios
   teams:
     multiformat-vc-ios-maintainers: write
