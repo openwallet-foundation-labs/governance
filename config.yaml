@@ -60,6 +60,7 @@ teams:
 - name: sd-jwt-kotlin-maintainers
   maintainers:
   - fabian-hk
+  - aceshim
 - name: sd-jwt-python-maintainers
   maintainers:
   - danielfett
