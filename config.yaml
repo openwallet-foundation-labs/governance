@@ -31,6 +31,12 @@ teams:
   - sethmoo
   - sorotokin
   - suzannajiwani
+- name: lf-employees
+  maintainers:
+  - ryjones
+  members:
+  - SeanBohan
+  - strawberry-baked-alaska
 - name: mdl-js-maintainers
   maintainers:
   - lukasjhan
