@@ -159,6 +159,10 @@ repositories:
   teams:
     tuvali-maintainers: maintain
   visibility: public
+- name: tuvali-ios-swift
+  teams:
+    tuvali-maintainers: maintain
+  visibility: public
 - name: vc-api
   teams:
     vc-api-maintainers: maintain
