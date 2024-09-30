@@ -105,6 +105,7 @@ teams:
   - Dindexx
   - JoTiTu
   - ntsbs
+  - kenkosmowski
 repositories:
 - name: .github
   visibility: public
