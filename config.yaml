@@ -77,9 +77,8 @@ teams:
   - peppelinux
 - name: sd-jwt-rust-maintainers
   maintainers:
-  - tkuhrt
-  members:
   - jovfer
+  members:
   - Abdulbois
 - name: tsp-maintainers
   maintainers:
