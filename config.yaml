@@ -53,19 +53,6 @@ teams:
 - name: sd-jwt-dotnet-maintainers
   maintainers:
   - thomas-tran
-- name: sd-jwt-js-admin
-  maintainers:
-  - cre8
-  members:
-  - lukasjhan
-- name: sd-jwt-js-maintainers
-  maintainers:
-  - lukasjhan
-  members:
-  - aceshim
-  - berendsliedrecht
-  - cre8
-  - zustkeeper
 - name: sd-jwt-kotlin-maintainers
   maintainers:
   - fabian-hk
@@ -140,11 +127,6 @@ repositories:
 - name: sd-jwt-dotnet
   teams:
     sd-jwt-dotnet-maintainers: maintain
-  visibility: public
-- name: sd-jwt-js
-  teams:
-    sd-jwt-js-maintainers: maintain
-    sd-jwt-js-admin: admin
   visibility: public
 - name: sd-jwt-kotlin
   teams:
