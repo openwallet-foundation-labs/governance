@@ -40,8 +40,8 @@ teams:
   members:
   - alexfigtree
   - kayaelle
-  - dmitrizagidulin
   - jchartrand
+  - dmitrizagidulin
 - name: lf-employees
   maintainers:
   - ryjones
