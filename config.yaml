@@ -34,6 +34,14 @@ teams:
   - kdeus
   - hzawawy
   - TheCoryBarker
+- name: lcw-maintainers
+  maintainers:
+  - tkuhrt
+  members:
+  - alexfigtree
+  - kayaelle
+  - dmitrizagidulin
+  - jchartrand
 - name: lf-employees
   maintainers:
   - ryjones
@@ -116,6 +124,10 @@ repositories:
   teams:
     identity-credential-admins: admin
     identity-credential-maintainers: maintain
+  visibility: public
+- name: learner-credential-wallet
+  teams:
+    lcw-maintainers: maintain
   visibility: public
 - name: mdl-js
   teams:
