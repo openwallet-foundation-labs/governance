@@ -36,9 +36,8 @@ teams:
   - TheCoryBarker
 - name: lcw-maintainers
   maintainers:
-  - tkuhrt
-  members:
   - alexfigtree
+  members:
   - kayaelle
   - dmitrizagidulin
   - jchartrand
