@@ -74,6 +74,15 @@ teams:
   - jovfer
   members:
   - Abdulbois
+- name: solid-data-wallet-maintainers
+  maintainers:
+  - tkuhrt
+  members:
+  - KyraAssaad
+  - edwardsph
+  - seilagonzalez
+  - NSeydoux
+  - hzbarcea
 - name: tsp-maintainers
   maintainers:
   - wenjing
@@ -150,6 +159,10 @@ repositories:
 - name: sd-jwt-rust
   teams:
     sd-jwt-rust-maintainers: maintain
+  visibility: public
+- name: solid-data-wallet
+  teams:
+    solid-data-wallet-maintainers: maintain
   visibility: public
 - name: tsp
   teams:
