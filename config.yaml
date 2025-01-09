@@ -147,6 +147,21 @@ repositories:
     credhub-maintainers: maintain
     credhub-admin: admin
   visibility: public
+- name: dcql-ts
+  teams:
+    dcql-ts-maintainers: maintain
+    dcql-ts-admin: admin
+  visibility: public
+- name: oid4vc-ts
+  teams:
+    oid4vc-ts-maintainers: maintain
+    oid4vc-ts-admin: admin
+  visibility: public
+- name: openid-federation-ts
+  teams:
+    openid-federation-ts-maintainers: maintain
+    openid-federation-ts-admin: admin
+  visibility: public
 - name: eudi-wallet-kit-react-native
   teams:
     eudi-wallet-kit-react-native-maintainers: maintain
