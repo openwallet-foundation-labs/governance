@@ -1,11 +1,13 @@
 teams:
 - name: dcql-ts-maintainers
   maintainers:
-  - auer-martin
   - TimoGlastra
+  members:
+  - auer-martin
 - name: dcql-ts-admin
   maintainers:
   - TimoGlastra
+  members:
   - auer-martin
 - name: oid4vc-ts-maintainers
   maintainers:
@@ -160,7 +162,7 @@ repositories:
 - name: openid-federation-ts
   teams:
     openid-federation-ts-maintainers: maintain
-    openid-federation-ts-admin: admin
+    openid-federation-ts-admins: admin
   visibility: public
 - name: eudi-wallet-kit-react-native
   teams:
