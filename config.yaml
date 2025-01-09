@@ -112,6 +112,17 @@ teams:
   - seilagonzalez
   - NSeydoux
   - hzbarcea
+- name: tac
+  maintainers:
+  - tkuhrt
+  members:
+  - davidz25
+  - rolsonquadras
+  - petecool
+  - aceshim
+  - skounis
+  - swcurran
+  - wenjing
 - name: tsp-maintainers
   maintainers:
   - wenjing
@@ -143,6 +154,8 @@ teams:
   - kenkosmowski
 repositories:
 - name: .github
+  teams:
+    tac: maintain
   visibility: public
 - name: credhub
   teams:
@@ -153,6 +166,10 @@ repositories:
   teams:
     dcql-ts-maintainers: maintain
     dcql-ts-admin: admin
+  visibility: public
+- name: governance
+  teams:
+    tac: maintain
   visibility: public
 - name: oid4vc-ts
   teams:
