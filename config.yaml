@@ -28,14 +28,6 @@ teams:
 - name: openid-federation-ts-admins
   maintainers:
   - TimoGlastra
-- name: credhub-maintainers
-  maintainers:
-  - cre8
-  members:
-  - mustafasalfiti
-- name: credhub-admin
-  maintainers:
-  - cre8
 - name: eudi-wallet-kit-react-native-maintainers
   maintainers:
   - AlexanderShenshin
@@ -156,11 +148,6 @@ repositories:
 - name: .github
   teams:
     tac: maintain
-  visibility: public
-- name: credhub
-  teams:
-    credhub-maintainers: maintain
-    credhub-admin: admin
   visibility: public
 - name: dcql-ts
   teams:
