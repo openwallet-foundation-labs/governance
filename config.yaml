@@ -1,4 +1,31 @@
 teams:
+- name: dcql-ts-maintainers
+  maintainers:
+  - auer-martin
+  - TimoGlastra
+- name: dcql-ts-admin
+  maintainers:
+  - TimoGlastra
+  - auer-martin
+- name: oid4vc-ts-maintainers
+  maintainers:
+  - TimoGlastra
+  members:
+  - auer-martin
+  - berendsliedrecht
+  - marsouin
+- name: oid4vc-ts-admin
+  maintainers:
+  - TimoGlastra
+- name: openid-federation-ts-maintainers
+  maintainers:
+  - TimoGlastra
+  members:
+  - berendsliedrecht
+  - Tommylans
+- name: openid-federation-ts-admins
+  maintainers:
+  - TimoGlastra
 - name: credhub-maintainers
   maintainers:
   - cre8
