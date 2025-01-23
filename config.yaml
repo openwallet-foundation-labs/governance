@@ -97,6 +97,12 @@ teams:
   - jovfer
   members:
   - Abdulbois
+- name: sd-jwt-vc-dm-maintainers
+  maintainers:
+  - lukasjhan
+  members:
+  - Dtitkaio
+  - Takashiyamam
 - name: solid-data-wallet-maintainers
   maintainers:
   - tkuhrt
@@ -209,6 +215,10 @@ repositories:
 - name: sd-jwt-rust
   teams:
     sd-jwt-rust-maintainers: maintain
+  visibility: public
+- name: sd-jwt-vc-dm
+  teams:
+    sd-jwt-vc-dm-maintainers: maintain
   visibility: public
 - name: solid-data-wallet
   teams:
