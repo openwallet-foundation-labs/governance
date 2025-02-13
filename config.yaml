@@ -105,22 +105,20 @@ teams:
   - Takashiyamam
 - name: solid-data-wallet-maintainers
   maintainers:
-  - tkuhrt
+  - hzbarcea
   members:
   - KyraAssaad
   - edwardsph
   - seilagonzalez
   - NSeydoux
-  - hzbarcea
 - name: tac
   maintainers:
-  - tkuhrt
+  - skounis
   members:
   - davidz25
   - rolsonquadras
   - petecool
   - aceshim
-  - skounis
   - swcurran
   - wenjing
 - name: tsp-maintainers
@@ -131,11 +129,10 @@ teams:
   - marlonbaeten
 - name: tuvali-maintainers
   maintainers:
-  - tkuhrt
+  - swatigoel
   members:
   - gsasikumar
   - ckm007
-  - swatigoel
 - name: vc-api-developers
   maintainers:
   - jrhender
