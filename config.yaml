@@ -144,6 +144,12 @@ teams:
 - name: vc-api-maintainers
   maintainers:
   - jrhender
+- name: vcx-maintainers
+  maintainers:
+  - gmulhearn
+  - JamesKEbert
+  members:
+  - lukewli-anonyome
 - name: wallet-framework-dotnet-maintainers
   maintainers:
   - CHempel-esatus
@@ -240,6 +246,10 @@ repositories:
   teams:
     vc-api-maintainers: maintain
     vc-api-developers: write
+  visibility: public
+- name: vcx
+  teams:
+    vcx-maintainers: maintain
   visibility: public
 - name: wallet-framework-dotnet
   teams:
