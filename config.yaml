@@ -98,24 +98,28 @@ teams:
   - jovfer
   members:
   - Abdulbois
+- name: sd-jwt-vc-dm-maintainers
+  maintainers:
+  - lukasjhan
+  members:
+  - Dtitkaio
+  - Takashiyamam
 - name: solid-data-wallet-maintainers
   maintainers:
-  - tkuhrt
+  - hzbarcea
   members:
   - KyraAssaad
   - edwardsph
   - seilagonzalez
   - NSeydoux
-  - hzbarcea
 - name: tac
   maintainers:
-  - tkuhrt
+  - skounis
   members:
   - davidz25
   - rolsonquadras
   - petecool
   - aceshim
-  - skounis
   - swcurran
   - wenjing
 - name: tsp-maintainers
@@ -124,18 +128,22 @@ teams:
   members:
   - tweedegolf-marc
   - marlonbaeten
+  - pohlm01
+  - michielp1807
 - name: tuvali-maintainers
   maintainers:
-  - tkuhrt
+  - swatigoel
   members:
   - gsasikumar
   - ckm007
-  - swatigoel
 - name: vc-api-developers
   maintainers:
   - jrhender
   members:
   - nichonien
+  - ni3gavhane
+  - mesaresachin
+  - ShikharBhatt
 - name: vc-api-maintainers
   maintainers:
   - jrhender
@@ -210,6 +218,10 @@ repositories:
 - name: sd-jwt-rust
   teams:
     sd-jwt-rust-maintainers: maintain
+  visibility: public
+- name: sd-jwt-vc-dm
+  teams:
+    sd-jwt-vc-dm-maintainers: maintain
   visibility: public
 - name: solid-data-wallet
   teams:
