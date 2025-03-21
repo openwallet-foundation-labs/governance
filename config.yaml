@@ -9,6 +9,13 @@ teams:
   - TimoGlastra
   members:
   - auer-martin
+- name: pydentity-wallet-maintainers
+  maintainers:
+  - PatStLouis
+  members:
+  - jamshale
+  - esune
+  - loneil
 - name: oid4vc-ts-maintainers
   maintainers:
   - TimoGlastra
@@ -202,6 +209,10 @@ repositories:
 - name: multiformat-vc-ios
   teams:
     multiformat-vc-ios-maintainers: write
+  visibility: public
+- name: PyDentity-Wallet
+  teams:
+    pydentity-wallet-maintainers: write
   visibility: public
 - name: sd-jwt-dotnet
   teams:
