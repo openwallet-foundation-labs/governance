@@ -84,6 +84,11 @@ teams:
   - lukasjhan
   members:
   - hismethod
+- name: trs-maintainers
+  maintainers:
+  - lukasjhan
+  members:
+  - pensivej
 - name: multiformat-vc-ios-maintainers
   maintainers:
   - gauravping
@@ -238,6 +243,10 @@ repositories:
 - name: solid-data-wallet
   teams:
     solid-data-wallet-maintainers: maintain
+  visibility: public
+- name: trs
+  teams:
+    trs-maintainers: maintain
   visibility: public
 - name: tsp
   teams:
