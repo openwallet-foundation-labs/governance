@@ -49,6 +49,8 @@ teams:
 - name: identity-credential-admins
   maintainers:
   - davidz25
+  members:
+  - troykensinger
 - name: identity-credential-maintainers
   maintainers:
   - davidz25
@@ -60,6 +62,7 @@ teams:
   - sethmoo
   - sorotokin
   - suzannajiwani
+  - troykensinger
   - kdeus
   - hzawawy
   - TheCoryBarker
