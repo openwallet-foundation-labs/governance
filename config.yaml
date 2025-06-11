@@ -66,6 +66,14 @@ teams:
   - kdeus
   - hzawawy
   - TheCoryBarker
+- name: identity-credential-team
+  maintainers:
+  - davidz25
+  members:
+  - dzuluaga
+  - VishnuSanal
+  - itsme291
+  - hanluOMH
 - name: lcw-maintainers
   maintainers:
   - alexfigtree
@@ -206,6 +214,7 @@ repositories:
   teams:
     identity-credential-admins: admin
     identity-credential-maintainers: maintain
+    identity-credential-team: read
   visibility: public
 - name: learner-credential-wallet
   teams:
