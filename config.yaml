@@ -1,4 +1,10 @@
 teams:
+- name: ehr-wallet-maintainers
+  maintainers:
+  - ryjones
+  members:
+  - rstellar
+  - sbhavani
 - name: dcql-ts-maintainers
   maintainers:
   - TimoGlastra
@@ -187,6 +193,10 @@ repositories:
   teams:
     dcql-ts-maintainers: maintain
     dcql-ts-admin: admin
+  visibility: public
+- name: ehr-wallet
+  teams:
+    ehr-wallet-maintainers: maintain
   visibility: public
 - name: governance
   teams:
