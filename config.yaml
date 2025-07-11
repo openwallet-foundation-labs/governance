@@ -10,6 +10,7 @@ teams:
   - TimoGlastra
   members:
   - auer-martin
+  - hacdias
 - name: dcql-ts-admin
   maintainers:
   - TimoGlastra
@@ -29,6 +30,7 @@ teams:
   members:
   - auer-martin
   - berendsliedrecht
+  - hacdias
   - marsouin
 - name: oid4vc-ts-admin
   maintainers:
