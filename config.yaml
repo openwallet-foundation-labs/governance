@@ -111,6 +111,7 @@ teams:
 - name: trs-maintainers
   maintainers:
   - lukasjhan
+  - yunseorim1116
   members:
   - aceshim
 - name: multiformat-vc-ios-maintainers
