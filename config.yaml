@@ -108,6 +108,12 @@ teams:
   - lukasjhan
   members:
   - hismethod
+- name: hdcx-js-maintainers
+  maintainers:
+  - lukasjhan
+  members:
+  - aceshim
+  - yunseorim1116
 - name: trs-maintainers
   maintainers:
   - lukasjhan
@@ -249,6 +255,9 @@ repositories:
 - name: mdl-js
   teams:
     mdl-js-maintainers: maintain
+- name: hdcx-js
+  teams:
+    hdcx-js-maintainers: maintain
 - name: multiformat-vc-ios
   teams:
     multiformat-vc-ios-maintainers: write
