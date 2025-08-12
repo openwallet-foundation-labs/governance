@@ -255,7 +255,7 @@ repositories:
 - name: mdl-js
   teams:
     mdl-js-maintainers: maintain
-- name: hdcx-js
+- name: hDCX-js
   teams:
     hdcx-js-maintainers: maintain
 - name: multiformat-vc-ios
