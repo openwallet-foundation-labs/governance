@@ -246,7 +246,7 @@ repositories:
   teams:
     identity-credential-admins: admin
     identity-credential-maintainers: maintain
-    identity-credential-team: read
+    identity-credential-team: triage
   visibility: public
 - name: learner-credential-wallet
   teams:
