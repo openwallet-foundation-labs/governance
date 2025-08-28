@@ -60,34 +60,6 @@ teams:
   - jorgefl0
   members:
   - skullquake
-- name: identity-credential-admins
-  maintainers:
-  - davidz25
-  members:
-  - troykensinger
-- name: identity-credential-maintainers
-  maintainers:
-  - davidz25
-  members:
-  - 15characterlimi
-  - koukarine
-  - dyiop
-  - GarethCOliver
-  - sethmoo
-  - sorotokin
-  - suzannajiwani
-  - troykensinger
-  - kdeus
-  - hzawawy
-  - TheCoryBarker
-- name: identity-credential-team
-  maintainers:
-  - davidz25
-  members:
-  - dzuluaga
-  - VishnuSanal
-  - itsme291
-  - hanluOMH
 - name: lcw-maintainers
   maintainers:
   - alexfigtree
@@ -241,12 +213,6 @@ repositories:
 - name: farmworker-wallet-os
   teams:
     fwos-maintainers: maintain
-  visibility: public
-- name: identity-credential
-  teams:
-    identity-credential-admins: admin
-    identity-credential-maintainers: maintain
-    identity-credential-team: triage
   visibility: public
 - name: learner-credential-wallet
   teams:
