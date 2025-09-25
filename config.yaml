@@ -265,6 +265,10 @@ repositories:
   teams:
     tsp-maintainers: maintain
   visibility: public
+- name: tmcp-python
+  teams:
+    tsp-maintainers: maintain
+  visibility: public
 - name: tuvali
   teams:
     tuvali-maintainers: maintain
