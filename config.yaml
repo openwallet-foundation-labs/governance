@@ -139,6 +139,11 @@ teams:
   - aceshim
   - swcurran
   - wenjing
+- name: tmcp-credentials-maintainers
+  maintainers:
+  - michielp1807
+  members:
+  - bakayu
 - name: tsp-maintainers
   maintainers:
   - wenjing
@@ -264,6 +269,10 @@ repositories:
 - name: tsp
   teams:
     tsp-maintainers: maintain
+  visibility: public
+- name: tmcp-credentials
+  teams:
+    tmcp-credentials-maintainers: maintain
   visibility: public
 - name: tmcp-python
   teams:
