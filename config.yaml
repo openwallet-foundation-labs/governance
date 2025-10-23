@@ -133,12 +133,11 @@ teams:
   maintainers:
   - skounis
   members:
-  - davidz25
-  - rolsonquadras
-  - petecool
   - aceshim
+  - davidz25
+  - stare893
+  - stefan-kauhaus
   - swcurran
-  - wenjing
 - name: tmcp-credentials-maintainers
   maintainers:
   - michielp1807
