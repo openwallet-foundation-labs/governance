@@ -145,6 +145,11 @@ teams:
   - michielp1807
   members:
   - bakayu
+- name: tmcp-rust-maintainers
+  maintainers:
+  - wenjing
+  members:
+  - alanpoon
 - name: tsp-maintainers
   maintainers:
   - wenjing
@@ -278,6 +283,10 @@ repositories:
 - name: tmcp-python
   teams:
     tsp-maintainers: maintain
+  visibility: public
+- name: tmcp-rust
+  teams:
+    tmcp-rust-maintainers: maintain
   visibility: public
 - name: tuvali
   teams:
