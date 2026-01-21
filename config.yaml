@@ -142,6 +142,7 @@ teams:
 - name: tmcp-credentials-maintainers
   maintainers:
   - michielp1807
+  - wenjing
   members:
   - bakayu
 - name: tmcp-rust-maintainers
@@ -149,6 +150,8 @@ teams:
   - wenjing
   members:
   - alanpoon
+  - tediou5
+  - Folyd
 - name: tsp-maintainers
   maintainers:
   - wenjing
@@ -157,8 +160,8 @@ teams:
   - marlonbaeten
   - pohlm01
   - michielp1807
-  - chengr4
-  - bakayu
+  - tediou5
+  - Folyd
 - name: tuvali-maintainers
   maintainers:
   - swatigoel
