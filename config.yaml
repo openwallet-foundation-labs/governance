@@ -42,12 +42,24 @@ teams:
 - name: oid4vc-ts-admin
   maintainers:
   - TimoGlastra
+- name: identity-common-ts-maintainers
+  maintainers:
+  - TimoGlastra
+  - cre8
+  members:
+  - berendsliedrecht
+  - hacdias
+  - marsouin
+  - cre8
+- name: identity-common-ts-admin
+  maintainers:
+  - TimoGlastra
+  - cre8
 - name: openid-federation-ts-maintainers
   maintainers:
   - TimoGlastra
   members:
   - berendsliedrecht
-  - Tommylans
 - name: openid-federation-ts-admins
   maintainers:
   - TimoGlastra
@@ -215,6 +227,11 @@ repositories:
   teams:
     oid4vc-ts-maintainers: maintain
     oid4vc-ts-admin: admin
+  visibility: public
+- name: identity-common-ts
+  teams:
+    identity-common-ts-maintainers: maintain
+    identity-common-ts-admin: admin
   visibility: public
 - name: openid-federation-ts
   teams:
