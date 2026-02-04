@@ -50,7 +50,6 @@ teams:
   - berendsliedrecht
   - hacdias
   - marsouin
-  - cre8
 - name: identity-common-ts-admin
   maintainers:
   - TimoGlastra
