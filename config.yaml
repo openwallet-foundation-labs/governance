@@ -88,11 +88,18 @@ teams:
   - ryjones
   members:
   - SeanBohan
-- name: mdl-js-maintainers
+- name: mdoc-ts-admin
   maintainers:
-  - lukasjhan
+  - TimoGlastra
   members:
-  - hismethod
+  - berendsliedrecht
+- name: mdoc-ts-maintainers
+  maintainers:
+  - TimoGlastra
+  members:
+  - hacdias
+  - marsouin
+  - berendsliedrecht
 - name: hdcx-js-maintainers
   maintainers:
   - lukasjhan
@@ -249,9 +256,10 @@ repositories:
   teams:
     lcw-maintainers: maintain
   visibility: public
-- name: mdl-js
+- name: mdoc-ts
   teams:
-    mdl-js-maintainers: maintain
+    mdoc-ts-admins: admin
+    mdoc-ts-maintainers: maintain
 - name: hDCX-js
   teams:
     hdcx-js-maintainers: maintain
