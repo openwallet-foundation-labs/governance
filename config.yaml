@@ -258,7 +258,7 @@ repositories:
   visibility: public
 - name: mdoc-ts
   teams:
-    mdoc-ts-admins: admin
+    mdoc-ts-admin: admin
     mdoc-ts-maintainers: maintain
 - name: hDCX-js
   teams:
