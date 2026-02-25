@@ -260,6 +260,10 @@ repositories:
   teams:
     mdoc-ts-admin: admin
     mdoc-ts-maintainers: maintain
+- name: expo-mdoc-data-transfer
+  teams:
+    mdoc-ts-admin: admin
+    mdoc-ts-maintainers: maintain
 - name: hDCX-js
   teams:
     hdcx-js-maintainers: maintain
