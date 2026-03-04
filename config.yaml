@@ -1,8 +1,15 @@
 teams:
-- name: ehr-wallet-maintainers
+- name: apostille-maintainers
   maintainers:
   - ryjones
   members:
+  - vinaysingh8866
+  - dave-promulgare
+#  members:
+  - Shivanant
+  - Ferrisama
+- name: ehr-wallet-maintainers
+  maintainers:
   - rstellar
   - sbhavani
 - name: eudiplo-admins
@@ -204,13 +211,6 @@ teams:
   - ntsbs
   members:
   - kenkosmowski
-- name: apostille-maintainers
-  maintainers:
-  - vinaysingh8866
-  - dave-promulgare
-  members:
-  - Shivanant
-  - Ferrisama
 repositories:
 - name: .github
   teams:
