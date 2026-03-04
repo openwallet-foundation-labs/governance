@@ -204,6 +204,13 @@ teams:
   - ntsbs
   members:
   - kenkosmowski
+- name: apostille-maintainers
+  maintainers:
+  - vinaysingh8866
+  - dave-promulgare
+  members:
+  - Shivanant
+  - Ferrisama
 repositories:
 - name: .github
   teams:
@@ -334,4 +341,8 @@ repositories:
 - name: wallet-framework-dotnet
   teams:
     wallet-framework-dotnet-maintainers: maintain
+  visibility: public
+- name: apostille
+  teams:
+    apostille-maintainers: maintain
   visibility: public
