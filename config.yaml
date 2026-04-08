@@ -69,11 +69,6 @@ teams:
 - name: openid-federation-ts-admins
   maintainers:
   - TimoGlastra
-- name: eudi-wallet-kit-react-native-maintainers
-  maintainers:
-  - AlexanderShenshin
-  members:
-  - akarabashov
 - name: fwos-maintainers
   maintainers:
   - jorgefl0
@@ -249,10 +244,6 @@ repositories:
   teams:
     openid-federation-ts-maintainers: maintain
     openid-federation-ts-admins: admin
-  visibility: public
-- name: eudi-wallet-kit-react-native
-  teams:
-    eudi-wallet-kit-react-native-maintainers: maintain
   visibility: public
 - name: farmworker-wallet-os
   teams:
