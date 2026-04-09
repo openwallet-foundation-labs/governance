@@ -142,23 +142,16 @@ teams:
   members:
   - Dtitkaio
   - Takashiyamam
-- name: solid-data-wallet-maintainers
-  maintainers:
-  - hzbarcea
-  members:
-  - KyraAssaad
-  - edwardsph
-  - seilagonzalez
-  - NSeydoux
 - name: tac
   maintainers:
-  - skounis
-  members:
   - aceshim
+  members:
+  - skounis
   - davidz25
   - stare893
   - stefan-kauhaus
   - swcurran
+  - bryanwche
 - name: tmcp-credentials-maintainers
   maintainers:
   - michielp1807
@@ -291,10 +284,6 @@ repositories:
 - name: sd-jwt-vc-dm
   teams:
     sd-jwt-vc-dm-maintainers: maintain
-  visibility: public
-- name: solid-data-wallet
-  teams:
-    solid-data-wallet-maintainers: maintain
   visibility: public
 - name: trs
   teams:
