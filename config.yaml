@@ -289,13 +289,9 @@ repositories:
     description: "Final project charters for OpenWallet Foundation subprojects"
     default_branch: main
     allow_squash_merge: true
-  teams:
-      - name: staff
-        permission: admin
-  visibility: public
-  collaborators:
-      - name: NSouthernLF
-        permission: maintainer
+    visibility: public
+    teams:
+      staff: admin
 - name: trs
   teams:
     trs-maintainers: maintain
