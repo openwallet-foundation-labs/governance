@@ -286,12 +286,9 @@ repositories:
     sd-jwt-vc-dm-maintainers: maintain
   visibility: public
 - name: technical-project-charters
-    description: "Final project charters for OpenWallet Foundation subprojects"
-    default_branch: main
-    allow_squash_merge: true
-    visibility: public
-    teams:
-         staff: admin
+  teams:
+    staff: admin
+  visibility: public
 - name: trs
   teams:
     trs-maintainers: maintain
