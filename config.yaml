@@ -285,6 +285,10 @@ repositories:
   teams:
     sd-jwt-vc-dm-maintainers: maintain
   visibility: public
+- name: technical-project-charters
+  teams:
+    staff: admin
+  visibility: public
 - name: trs
   teams:
     trs-maintainers: maintain
