@@ -291,7 +291,7 @@ repositories:
     allow_squash_merge: true
     visibility: public
     teams:
-      staff: admin
+         staff: admin
 - name: trs
   teams:
     trs-maintainers: maintain
