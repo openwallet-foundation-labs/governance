@@ -12,12 +12,6 @@ teams:
   maintainers:
   - rstellar
   - sbhavani
-- name: eudiplo-admins
-  maintainers:
-  - cre8
-- name: eudiplo-maintainers
-  maintainers:
-  - cre8
 - name: dcql-ts-maintainers
   maintainers:
   - TimoGlastra
@@ -203,11 +197,6 @@ repositories:
 - name: .github
   teams:
     tac: maintain
-  visibility: public
-- name: eudiplo
-  teams:
-    eudiplo-maintainers: maintain
-    eudiplo-admins: admin
   visibility: public
 - name: dcql-ts
   teams:
