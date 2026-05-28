@@ -130,6 +130,9 @@ teams:
   - jovfer
   members:
   - Abdulbois
+  - ashcherbakov
+  - AlexanderShenshin
+  - Vanderkast
 - name: sd-jwt-vc-dm-maintainers
   maintainers:
   - lukasjhan
