@@ -96,7 +96,7 @@ teams:
   - hacdias
   - marsouin
   - berendsliedrecht
-- name: hdcx-js-maintainers
+- name: axle-maintainers
   maintainers:
   - lukasjhan
   members:
@@ -246,9 +246,9 @@ repositories:
   teams:
     mdoc-ts-admin: admin
     mdoc-ts-maintainers: maintain
-- name: hDCX-js
+- name: Axle
   teams:
-    hdcx-js-maintainers: maintain
+    axle-maintainers: maintain
 - name: multiformat-vc-ios
   teams:
     multiformat-vc-ios-maintainers: write
