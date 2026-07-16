@@ -5,9 +5,15 @@ teams:
   members:
   - vinaysingh8866
   - dave-promulgare
-#  members:
+  members:
   - Shivanant
   - Ferrisama
+- name: axle-maintainers
+  maintainers:
+  - lukasjhan
+  members:
+  - aceshim
+  - yunseorim1116
 - name: ehr-wallet-maintainers
   maintainers:
   - rstellar
@@ -96,12 +102,6 @@ teams:
   - hacdias
   - marsouin
   - berendsliedrecht
-- name: hdcx-js-maintainers
-  maintainers:
-  - lukasjhan
-  members:
-  - aceshim
-  - yunseorim1116
 - name: trs-maintainers
   maintainers:
   - lukasjhan
@@ -201,6 +201,9 @@ repositories:
   teams:
     tac: maintain
   visibility: public
+- name: axle
+  teams:
+    axle-maintainers: maintain
 - name: dcql-ts
   teams:
     dcql-ts-maintainers: maintain
@@ -246,9 +249,6 @@ repositories:
   teams:
     mdoc-ts-admin: admin
     mdoc-ts-maintainers: maintain
-- name: hDCX-js
-  teams:
-    hdcx-js-maintainers: maintain
 - name: multiformat-vc-ios
   teams:
     multiformat-vc-ios-maintainers: write
