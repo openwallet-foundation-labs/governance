@@ -204,6 +204,7 @@ repositories:
 - name: axle
   teams:
     axle-maintainers: maintain
+  visibility: public
 - name: dcql-ts
   teams:
     dcql-ts-maintainers: maintain
