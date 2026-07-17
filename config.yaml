@@ -314,3 +314,8 @@ repositories:
   teams:
     apostille-maintainers: maintain
   visibility: public
+- name: fwos-kms-maintainers
+  maintainers:
+  - jorgefl0
+  members:
+  - skullquake  
