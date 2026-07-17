@@ -74,6 +74,11 @@ teams:
   - jorgefl0
   members:
   - skullquake
+- name: fwos-developers
+  maintainers:
+  - jorgefl0
+  members:
+  - skullquake
 - name: lcw-maintainers
   maintainers:
   - alexfigtree
@@ -232,7 +237,13 @@ repositories:
 - name: farmworker-wallet-os
   teams:
     fwos-maintainers: maintain
+    fwos-developers: write
   visibility: public
+- name: farmworker-wallet-os-kms
+  teams: 
+    fwos-maintainers: maintain
+    fwos-developers: write
+  visibility: public  
 - name: learner-credential-wallet
   teams:
     lcw-maintainers: maintain
@@ -314,8 +325,4 @@ repositories:
   teams:
     apostille-maintainers: maintain
   visibility: public
-- name: farmworker-wallet-os-kms
-  teams: 
-    fwos-kms-maintainers: maintain
-    fwos-kms-developers: write
-  visibility: public
+
