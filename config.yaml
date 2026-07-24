@@ -1,328 +1,325 @@
 teams:
-- name: apostille-maintainers
-  maintainers:
-  - ryjones
-  members:
-  - vinaysingh8866
-  - dave-promulgare
-#  members:
-  - Shivanant
-  - Ferrisama
-- name: axle-maintainers
-  maintainers:
-  - lukasjhan
-  members:
-  - aceshim
-  - yunseorim1116
-- name: ehr-wallet-maintainers
-  maintainers:
-  - rstellar
-  - sbhavani
-- name: dcql-ts-maintainers
-  maintainers:
-  - TimoGlastra
-  members:
-  - auer-martin
-  - hacdias
-- name: dcql-ts-admin
-  maintainers:
-  - TimoGlastra
-  members:
-  - auer-martin
-- name: pydentity-wallet-maintainers
-  maintainers:
-  - PatStLouis
-  members:
-  - jamshale
-  - esune
-  - loneil
-  - Jsyro
-- name: oid4vc-ts-maintainers
-  maintainers:
-  - TimoGlastra
-  members:
-  - auer-martin
-  - berendsliedrecht
-  - hacdias
-  - marsouin
-  - cre8
-- name: oid4vc-ts-admin
-  maintainers:
-  - TimoGlastra
-- name: identity-common-ts-maintainers
-  maintainers:
-  - TimoGlastra
-  - cre8
-  members:
-  - berendsliedrecht
-  - hacdias
-  - marsouin
-- name: identity-common-ts-admin
-  maintainers:
-  - TimoGlastra
-  - cre8
-- name: openid-federation-ts-maintainers
-  maintainers:
-  - TimoGlastra
-  members:
-  - berendsliedrecht
-- name: openid-federation-ts-admins
-  maintainers:
-  - TimoGlastra
-- name: fwos-maintainers
-  maintainers:
-  - jorgefl0
-  members:
-  - skullquake
-- name: fwos-developers
-  maintainers:
-  - jorgefl0
-  members:
-  - skullquake
-- name: lcw-maintainers
-  maintainers:
-  - alexfigtree
-  members:
-  - kayaelle
-  - jchartrand
-- name: lf-employees
-  maintainers:
-  - ryjones
-  members:
-  - SeanBohan
-- name: mdoc-ts-admin
-  maintainers:
-  - TimoGlastra
-  members:
-  - berendsliedrecht
-- name: mdoc-ts-maintainers
-  maintainers:
-  - TimoGlastra
-  members:
-  - hacdias
-  - marsouin
-  - berendsliedrecht
-- name: trs-maintainers
-  maintainers:
-  - lukasjhan
-  members:
-  - aceshim
-  - yunseorim1116
-- name: multiformat-vc-ios-maintainers
-  maintainers:
-  - gauravping
-  members:
-  - bhavyachauhan-ping
-- name: sd-jwt-dotnet-maintainers
-  maintainers:
-  - thomas-tran
-- name: sd-jwt-kotlin-maintainers
-  maintainers:
-  - fabian-hk
-  - aceshim
-- name: sd-jwt-python-maintainers
-  maintainers:
-  - danielfett
-  members:
-  - peppelinux
-- name: sd-jwt-rust-maintainers
-  maintainers:
-  - jovfer
-  members:
-  - Abdulbois
-  - ashcherbakov
-  - AlexanderShenshin
-  - Vanderkast
-- name: sd-jwt-vc-dm-maintainers
-  maintainers:
-  - lukasjhan
-  members:
-  - Dtitkaio
-  - Takashiyamam
-- name: tac
-  maintainers:
-  - aceshim
-  members:
-  - skounis
-  - davidz25
-  - stare893
-  - stefan-kauhaus
-  - swcurran
-  - bryanwche
-- name: tmcp-credentials-maintainers
-  maintainers:
-  - michielp1807
-  - wenjing
-  members:
-  - bakayu
-- name: tmcp-rust-maintainers
-  maintainers:
-  - wenjing
-  members:
-  - alanpoon
-  - tediou5
-  - Folyd
-- name: tsp-maintainers
-  maintainers:
-  - wenjing
-  members:
-  - tweedegolf-marc
-  - marlonbaeten
-  - pohlm01
-  - michielp1807
-  - tediou5
-  - Folyd
-- name: tuvali-maintainers
-  maintainers:
-  - swatigoel
-  members:
-  - gsasikumar
-  - ckm007
-- name: vc-api-developers
-  maintainers:
-  - jrhender
-  members:
-  - nichonien
-  - ni3gavhane
-  - ShikharBhatt
-- name: vc-api-maintainers
-  maintainers:
-  - jrhender
-- name: wallet-framework-dotnet-maintainers
-  maintainers:
-  - CHempel-esatus
-  - Dindexx
-  - JoTiTu
-  - ntsbs
-  members:
-  - kenkosmowski
+  - name: apostille-maintainers
+    maintainers:
+      - Ferrisama
+    members:
+      - Shivanant
+      - dave-promulgare
+      - vinaysingh8866
+  - name: axle-maintainers
+    maintainers:
+      - lukasjhan
+    members:
+      - aceshim
+      - yunseorim1116
+  - name: dcql-ts-admin
+    maintainers:
+      - TimoGlastra
+    members:
+      - auer-martin
+  - name: dcql-ts-maintainers
+    maintainers:
+      - TimoGlastra
+    members:
+      - auer-martin
+      - hacdias
+  - name: ehr-wallet-maintainers
+    maintainers:
+      - rstellar
+      - sbhavani
+  - name: fwos-developers
+    maintainers:
+      - jorgefl0
+    members:
+      - skullquake
+  - name: fwos-maintainers
+    maintainers:
+      - jorgefl0
+    members:
+      - skullquake
+  - name: identity-common-ts-admin
+    maintainers:
+      - TimoGlastra
+      - cre8
+  - name: identity-common-ts-maintainers
+    maintainers:
+      - TimoGlastra
+      - cre8
+    members:
+      - berendsliedrecht
+      - hacdias
+      - marsouin
+  - name: lcw-maintainers
+    maintainers:
+      - alexfigtree
+    members:
+      - jchartrand
+      - kayaelle
+  - name: lf-employees
+    maintainers:
+      - ryjones
+    members:
+      - SeanBohan
+  - name: mdoc-ts-admin
+    maintainers:
+      - TimoGlastra
+    members:
+      - berendsliedrecht
+  - name: mdoc-ts-maintainers
+    maintainers:
+      - TimoGlastra
+    members:
+      - berendsliedrecht
+      - hacdias
+      - marsouin
+  - name: multiformat-vc-ios-maintainers
+    maintainers:
+      - gauravping
+    members:
+      - bhavyachauhan-ping
+  - name: oid4vc-ts-admin
+    maintainers:
+      - TimoGlastra
+  - name: oid4vc-ts-maintainers
+    maintainers:
+      - TimoGlastra
+    members:
+      - auer-martin
+      - berendsliedrecht
+      - cre8
+      - hacdias
+      - marsouin
+  - name: openid-federation-ts-admins
+    maintainers:
+      - TimoGlastra
+  - name: openid-federation-ts-maintainers
+    maintainers:
+      - TimoGlastra
+    members:
+      - berendsliedrecht
+  - name: pydentity-wallet-maintainers
+    maintainers:
+      - PatStLouis
+    members:
+      - Jsyro
+      - esune
+      - jamshale
+      - loneil
+  - name: sd-jwt-dotnet-maintainers
+    maintainers:
+      - thomas-tran
+  - name: sd-jwt-kotlin-maintainers
+    maintainers:
+      - aceshim
+      - fabian-hk
+  - name: sd-jwt-python-maintainers
+    maintainers:
+      - danielfett
+    members:
+      - peppelinux
+  - name: sd-jwt-rust-maintainers
+    maintainers:
+      - jovfer
+    members:
+      - Abdulbois
+      - AlexanderShenshin
+      - Vanderkast
+      - ashcherbakov
+  - name: sd-jwt-vc-dm-maintainers
+    maintainers:
+      - lukasjhan
+    members:
+      - Dtitkaio
+      - Takashiyamam
+  - name: tac
+    maintainers:
+      - aceshim
+    members:
+      - bryanwche
+      - davidz25
+      - skounis
+      - stare893
+      - stefan-kauhaus
+      - swcurran
+  - name: tmcp-credentials-maintainers
+    maintainers:
+      - michielp1807
+      - wenjing
+    members:
+      - bakayu
+  - name: tmcp-rust-maintainers
+    maintainers:
+      - wenjing
+    members:
+      - Folyd
+      - alanpoon
+      - tediou5
+  - name: trs-maintainers
+    maintainers:
+      - lukasjhan
+    members:
+      - aceshim
+      - yunseorim1116
+  - name: tsp-maintainers
+    maintainers:
+      - wenjing
+    members:
+      - Folyd
+      - marlonbaeten
+      - michielp1807
+      - pohlm01
+      - tediou5
+      - tweedegolf-marc
+  - name: tuvali-maintainers
+    maintainers:
+      - swatigoel
+    members:
+      - ckm007
+      - gsasikumar
+  - name: vc-api-developers
+    maintainers:
+      - jrhender
+    members:
+      - ShikharBhatt
+      - ni3gavhane
+      - nichonien
+  - name: vc-api-maintainers
+    maintainers:
+      - jrhender
+  - name: wallet-framework-dotnet-maintainers
+    maintainers:
+      - CHempel-esatus
+      - Dindexx
+      - JoTiTu
+      - ntsbs
+    members:
+      - kenkosmowski
 repositories:
-- name: .github
-  teams:
-    tac: maintain
-  visibility: public
-- name: axle
-  teams:
-    axle-maintainers: maintain
-  visibility: public
-- name: dcql-ts
-  teams:
-    dcql-ts-maintainers: maintain
-    dcql-ts-admin: admin
-  visibility: public
-- name: ehr-wallet
-  teams:
-    ehr-wallet-maintainers: maintain
-  visibility: public
-- name: governance
-  teams:
-    lf-employees: maintain
-    tac: maintain
-  visibility: public
-- name: oid4vc-ts
-  teams:
-    oid4vc-ts-maintainers: maintain
-    oid4vc-ts-admin: admin
-  visibility: public
-- name: identity-common-ts
-  teams:
-    identity-common-ts-maintainers: maintain
-    identity-common-ts-admin: admin
-  visibility: public
-- name: openid-federation-ts
-  teams:
-    openid-federation-ts-maintainers: maintain
-    openid-federation-ts-admins: admin
-  visibility: public
-- name: farmworker-wallet-os
-  teams:
-    fwos-maintainers: maintain
-    fwos-developers: write
-  visibility: public
-- name: farmworker-wallet-os-kms
-  teams: 
-    fwos-maintainers: maintain
-    fwos-developers: write
-  visibility: public  
-- name: learner-credential-wallet
-  teams:
-    lcw-maintainers: maintain
-  visibility: public
-- name: mdoc-ts
-  teams:
-    mdoc-ts-admin: admin
-    mdoc-ts-maintainers: maintain
-- name: expo-mdoc-data-transfer
-  teams:
-    mdoc-ts-admin: admin
-    mdoc-ts-maintainers: maintain
-- name: multiformat-vc-ios
-  teams:
-    multiformat-vc-ios-maintainers: write
-  visibility: public
-- name: PyDentity-Wallet
-  teams:
-    pydentity-wallet-maintainers: write
-  visibility: public
-- name: sd-jwt-dotnet
-  teams:
-    sd-jwt-dotnet-maintainers: maintain
-  visibility: public
-- name: sd-jwt-kotlin
-  teams:
-    sd-jwt-kotlin-maintainers: maintain
-  visibility: public
-- name: sd-jwt-python
-  teams:
-    sd-jwt-python-maintainers: maintain
-  visibility: public
-- name: sd-jwt-rust
-  teams:
-    sd-jwt-rust-maintainers: maintain
-  visibility: public
-- name: sd-jwt-vc-dm
-  teams:
-    sd-jwt-vc-dm-maintainers: maintain
-  visibility: public
-- name: trs
-  teams:
-    trs-maintainers: maintain
-  visibility: public
-- name: tsp
-  teams:
-    tsp-maintainers: maintain
-  visibility: public
-- name: tmcp-credentials
-  teams:
-    tmcp-credentials-maintainers: maintain
-  visibility: public
-- name: tmcp-python
-  teams:
-    tsp-maintainers: maintain
-  visibility: public
-- name: tmcp-rust
-  teams:
-    tmcp-rust-maintainers: maintain
-  visibility: public
-- name: tuvali
-  teams:
-    tuvali-maintainers: maintain
-  visibility: public
-- name: tuvali-ios-swift
-  teams:
-    tuvali-maintainers: maintain
-  visibility: public
-- name: vc-api
-  teams:
-    vc-api-maintainers: maintain
-    vc-api-developers: write
-  visibility: public
-- name: wallet-framework-dotnet
-  teams:
-    wallet-framework-dotnet-maintainers: maintain
-  visibility: public
-- name: apostille
-  teams:
-    apostille-maintainers: maintain
-  visibility: public
-
+  - name: .github
+    teams:
+      tac: maintain
+    visibility: public
+  - name: axle
+    teams:
+      axle-maintainers: maintain
+    visibility: public
+  - name: dcql-ts
+    teams:
+      dcql-ts-maintainers: maintain
+      dcql-ts-admin: admin
+    visibility: public
+  - name: ehr-wallet
+    teams:
+      ehr-wallet-maintainers: maintain
+    visibility: public
+  - name: governance
+    teams:
+      lf-employees: maintain
+      tac: maintain
+    visibility: public
+  - name: oid4vc-ts
+    teams:
+      oid4vc-ts-maintainers: maintain
+      oid4vc-ts-admin: admin
+    visibility: public
+  - name: identity-common-ts
+    teams:
+      identity-common-ts-maintainers: maintain
+      identity-common-ts-admin: admin
+    visibility: public
+  - name: openid-federation-ts
+    teams:
+      openid-federation-ts-maintainers: maintain
+      openid-federation-ts-admins: admin
+    visibility: public
+  - name: farmworker-wallet-os
+    teams:
+      fwos-maintainers: maintain
+      fwos-developers: write
+    visibility: public
+  - name: farmworker-wallet-os-kms
+    teams:
+      fwos-maintainers: maintain
+      fwos-developers: write
+    visibility: public
+  - name: learner-credential-wallet
+    teams:
+      lcw-maintainers: maintain
+    visibility: public
+  - name: mdoc-ts
+    teams:
+      mdoc-ts-admin: admin
+      mdoc-ts-maintainers: maintain
+  - name: expo-mdoc-data-transfer
+    teams:
+      mdoc-ts-admin: admin
+      mdoc-ts-maintainers: maintain
+  - name: multiformat-vc-ios
+    teams:
+      multiformat-vc-ios-maintainers: write
+    visibility: public
+  - name: PyDentity-Wallet
+    teams:
+      pydentity-wallet-maintainers: write
+    visibility: public
+  - name: sd-jwt-dotnet
+    teams:
+      sd-jwt-dotnet-maintainers: maintain
+    visibility: public
+  - name: sd-jwt-kotlin
+    teams:
+      sd-jwt-kotlin-maintainers: maintain
+    visibility: public
+  - name: sd-jwt-python
+    teams:
+      sd-jwt-python-maintainers: maintain
+    visibility: public
+  - name: sd-jwt-rust
+    teams:
+      sd-jwt-rust-maintainers: maintain
+    visibility: public
+  - name: sd-jwt-vc-dm
+    teams:
+      sd-jwt-vc-dm-maintainers: maintain
+    visibility: public
+  - name: trs
+    teams:
+      trs-maintainers: maintain
+    visibility: public
+  - name: tsp
+    teams:
+      tsp-maintainers: maintain
+    visibility: public
+  - name: tmcp-credentials
+    teams:
+      tmcp-credentials-maintainers: maintain
+    visibility: public
+  - name: tmcp-python
+    teams:
+      tsp-maintainers: maintain
+    visibility: public
+  - name: tmcp-rust
+    teams:
+      tmcp-rust-maintainers: maintain
+    visibility: public
+  - name: tuvali
+    teams:
+      tuvali-maintainers: maintain
+    visibility: public
+  - name: tuvali-ios-swift
+    teams:
+      tuvali-maintainers: maintain
+    visibility: public
+  - name: vc-api
+    teams:
+      vc-api-maintainers: maintain
+      vc-api-developers: write
+    visibility: public
+  - name: wallet-framework-dotnet
+    teams:
+      wallet-framework-dotnet-maintainers: maintain
+    visibility: public
+  - name: apostille
+    teams:
+      apostille-maintainers: maintain
+    visibility: public
