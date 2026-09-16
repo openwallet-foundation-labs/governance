@@ -12,17 +12,6 @@ teams:
     members:
       - aceshim
       - yunseorim1116
-  - name: dcql-ts-admin
-    maintainers:
-      - TimoGlastra
-    members:
-      - auer-martin
-  - name: dcql-ts-maintainers
-    maintainers:
-      - TimoGlastra
-    members:
-      - auer-martin
-      - hacdias
   - name: ehr-wallet-maintainers
     maintainers:
       - rstellar
@@ -77,18 +66,6 @@ teams:
       - gauravping
     members:
       - bhavyachauhan-ping
-  - name: oid4vc-ts-admin
-    maintainers:
-      - TimoGlastra
-  - name: oid4vc-ts-maintainers
-    maintainers:
-      - TimoGlastra
-    members:
-      - auer-martin
-      - berendsliedrecht
-      - cre8
-      - hacdias
-      - marsouin
   - name: openid-federation-ts-admins
     maintainers:
       - TimoGlastra
@@ -203,11 +180,6 @@ repositories:
     teams:
       axle-maintainers: maintain
     visibility: public
-  - name: dcql-ts
-    teams:
-      dcql-ts-maintainers: maintain
-      dcql-ts-admin: admin
-    visibility: public
   - name: ehr-wallet
     teams:
       ehr-wallet-maintainers: maintain
@@ -216,11 +188,6 @@ repositories:
     teams:
       lf-employees: maintain
       tac: maintain
-    visibility: public
-  - name: oid4vc-ts
-    teams:
-      oid4vc-ts-maintainers: maintain
-      oid4vc-ts-admin: admin
     visibility: public
   - name: identity-common-ts
     teams:
@@ -246,14 +213,11 @@ repositories:
     teams:
       lcw-maintainers: maintain
     visibility: public
-  - name: mdoc-ts
-    teams:
-      mdoc-ts-admin: admin
-      mdoc-ts-maintainers: maintain
   - name: expo-mdoc-data-transfer
     teams:
       mdoc-ts-admin: admin
       mdoc-ts-maintainers: maintain
+    visibility: public
   - name: multiformat-vc-ios
     teams:
       multiformat-vc-ios-maintainers: write
