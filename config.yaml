@@ -51,10 +51,11 @@ teams:
       - marsouin
   - name: lcw-maintainers
     maintainers:
-      - alexfigtree
-    members:
       - jchartrand
       - kayaelle
+    members:
+      - ottonomy
+      - threeqube
   - name: lf-employees
     maintainers:
       - ryjones
