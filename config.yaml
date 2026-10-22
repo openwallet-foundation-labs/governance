@@ -38,13 +38,6 @@ teams:
       - berendsliedrecht
       - hacdias
       - marsouin
-  - name: lcw-maintainers
-    maintainers:
-      - jchartrand
-      - kayaelle
-    members:
-      - ottonomy
-      - threeqube
   - name: lf-employees
     maintainers:
       - ryjones
@@ -209,10 +202,6 @@ repositories:
     teams:
       fwos-maintainers: maintain
       fwos-developers: write
-    visibility: public
-  - name: learner-credential-wallet
-    teams:
-      lcw-maintainers: maintain
     visibility: public
   - name: expo-mdoc-data-transfer
     teams:
