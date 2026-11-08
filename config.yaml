@@ -1,11 +1,4 @@
 teams:
-  - name: apostille-maintainers
-    maintainers:
-      - Ferrisama
-    members:
-      - Shivanant
-      - dave-promulgare
-      - vinaysingh8866
   - name: axle-maintainers
     maintainers:
       - lukasjhan
@@ -272,8 +265,4 @@ repositories:
   - name: wallet-framework-dotnet
     teams:
       wallet-framework-dotnet-maintainers: maintain
-    visibility: public
-  - name: apostille
-    teams:
-      apostille-maintainers: maintain
     visibility: public
